@@ -22,11 +22,11 @@ I’m currently learning node js, react js, vue js and mongodb.
 
 
 ### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yubuntu0109&repo=leetcode-googtech)](https://github.com/yubuntu0109/leetcode-googtech)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashraf-kabir&repo=mern-devconnector)](https://github.com/ashraf-kabir/mern-devconnector)
 
 
 ### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=YUbuntu0109&show_icons=true&hide_border=true)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=ashraf-kabir&show_icons=true&hide_border=true)
 
 
 ### 🔭 2020 Goal
