@@ -30,7 +30,7 @@ I’m currently learning node js, react js, vue js and mongodb.
 
 
 ### 🔭 2020 Goal
-learning data structures and algorithms recently becauese I am preparing for postgraduate entry.
+learning javascript libraries and API.
 
 
 ### ☕ Get In Touch
@@ -38,6 +38,3 @@ learning data structures and algorithms recently becauese I am preparing for pos
 - [Youtube](https://www.youtube.com/channel/UCQ2-QI7IYSSX2tpOjmjBatw)
 - [Personal Site](https://ashrafkabir.com)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YUbuntu0109.YUbuntu0109)
-
-⭐️ From [GoogTech](https://github.com/yubuntu0109)
