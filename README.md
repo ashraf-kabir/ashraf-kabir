@@ -1,7 +1,16 @@
 ### 👋 Hey Guys I'm Ashraf Kabir
 I’m currently learning node js, react js, vue js and mongodb.
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+👨‍🎓 B.Sc. in Computer Science and Engineering from the **[BRAC University](https://www.bracu.ac.bd/)** 
+
+### About me:
+
+- :dart: Full stack development | Machine learning | Deep learning | Computer vision | Matlab simulation   
+- :Developer & Webmaster: on  **[ieeebracu.com](http://ieeebracu.com/)**
+- :e-mail: Ask me about anything; **[s.m.ashraf.kabir@g.bracu.ac.bd](s.m.ashraf.kabir@g.bracu.ac.bd)**
+- :portfolio website: visit; **[ashrafkabir.com](https://ashafkabir.com/)**
+
 
 ### 👨‍💻 Languages and Tools
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/) 
