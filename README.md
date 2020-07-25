@@ -7,10 +7,10 @@ I’m currently learning node js, react js, vue js and mongodb.
 ### About me:
 
 - :dart: Full stack web development | Machine learning  
-- :technologist: Developer & Webmaster: on  **[ieeebracu.com](http://ieeebracu.com/)**
-- :telephone_receiver: +88 01751336666
-- :e-mail: Ask me about anything; **[s.m.ashraf.kabir@g.bracu.ac.bd](s.m.ashraf.kabir@g.bracu.ac.bd)**
-- :technologist: visit portfolio website; **[ashrafkabir.com](https://ashafkabir.com/)**
+- :star2: Developer & Webmaster on;  **[ieeebracu.com](http://ieeebracu.com/)**
+- :telephone_receiver: Contact: +88 01751336666
+- :e-mail: Email: **[s.m.ashraf.kabir@g.bracu.ac.bd](s.m.ashraf.kabir@g.bracu.ac.bd)**
+- :computer: Portfolio website: **[ashrafkabir.com](https://ashafkabir.com/)**
 
 
 ### 👨‍💻 Languages and Tools
