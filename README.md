@@ -10,7 +10,7 @@ I’m currently learning node js, react js, vue js and mongodb.
 - :star2: Developer & Webmaster on;  **[ieeebracu.com](http://ieeebracu.com/)**
 - :telephone_receiver: Contact: +88 01751336666
 - :e-mail: Email: **[s.m.ashraf.kabir@g.bracu.ac.bd](s.m.ashraf.kabir@g.bracu.ac.bd)**
-- :computer: Portfolio website: **[ashrafkabir.com](https://ashafkabir.com/)**
+- :computer: Portfolio website: **[ashrafkabir.com](https://ashrafkabir.com/)**
 
 
 ### 👨‍💻 Languages and Tools
