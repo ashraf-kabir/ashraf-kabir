@@ -50,6 +50,6 @@ learning javascript libraries and API.
 
 ### ☕ Get In Touch
 - [Twitter](https://twitter.com/ashraf1Q95)
-- [Youtube](https://www.youtube.com/channel/UCQ2-QI7IYSSX2tpOjmjBatw)
+- [Facebook](https://www.facebook.com/sonnet404)
 - [Personal Site](https://ashrafkabir.com)
 
