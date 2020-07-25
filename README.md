@@ -6,17 +6,16 @@ I’m currently learning node js, react js, vue js and mongodb.
 
 ### About me:
 
-- :dart: Full stack development | Machine learning | Deep learning | Computer vision | Matlab simulation   
-- :Developer & Webmaster: on  **[ieeebracu.com](http://ieeebracu.com/)**
+- :dart: Full stack web development | Machine learning  
+- :technologist: Developer & Webmaster: on  **[ieeebracu.com](http://ieeebracu.com/)**
 - :e-mail: Ask me about anything; **[s.m.ashraf.kabir@g.bracu.ac.bd](s.m.ashraf.kabir@g.bracu.ac.bd)**
-- :portfolio website: visit; **[ashrafkabir.com](https://ashafkabir.com/)**
+- :technologist: visit portfolio website; **[ashrafkabir.com](https://ashafkabir.com/)**
 
 
 ### 👨‍💻 Languages and Tools
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/) 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
-
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/) 
+[![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/ashraf-kabir/)
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/) 
