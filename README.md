@@ -21,7 +21,7 @@ I’m currently learning node js, react js, vue js and mongodb.
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/) 
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
-[![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=flat&logo=mysql&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
+[![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=flat&logo=mongodb&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
