@@ -7,7 +7,7 @@ I’m currently learning node js, react js, vue js and mongodb.
 ### About me:
 
 - :dart: Full stack web development | Machine learning  
-- :star2: Developer & Webmaster of;  **[ieeebracu.com](http://ieeebracu.com/)**
+- :star2: Developer & Webmaster at  **[ieeebracu.com](http://ieeebracu.com/)**
 - :telephone_receiver: Contact: +88 01751336666
 - :e-mail: Email: **[s.m.ashraf.kabir@g.bracu.ac.bd](s.m.ashraf.kabir@g.bracu.ac.bd)**
 - :computer: Portfolio website: **[ashrafkabir.com](https://ashrafkabir.com/)**
