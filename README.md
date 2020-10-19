@@ -1,7 +1,7 @@
 ### 👋 Hey Guys I'm Ashraf Kabir
 I’m currently learning node js, react js, vue js and mongodb. Good at PHP PDO, Laravel, MySQL, JS, JQuery, etc.
 
-#### Open for work
+### Note: I'm open for work.
 
 👨‍🎓 B.Sc. in Computer Science and Engineering from the **[BRAC University](https://www.bracu.ac.bd/)** 
 
