@@ -10,7 +10,7 @@ I’m currently learning node js, react js, vue js and mongodb. Good at PHP PDO,
 - :dart: Full stack web development | Machine learning  
 - :star2: Developer & Webmaster at  **[ieeebracu.com](http://ieeebracu.com/)**
 - :telephone_receiver: Contact: +88 01521331354
-- :e-mail: Email: **[s.m.ashraf.kabir@g.bracu.ac.bd](s.m.ashraf.kabir@g.bracu.ac.bd)**
+- :e-mail: Email: **[ashrafkabir95@gmail.com](ashrafkabir95@gmail.com)**
 - :computer: Portfolio website: **[ashrafkabir.com](https://ashrafkabir.com/)**
 
 
