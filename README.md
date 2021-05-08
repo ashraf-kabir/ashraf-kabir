@@ -14,7 +14,11 @@ I’m currently learning node js, react js, vue js and mongodb. Good at PHP PDO,
 
 
 ### 👨‍💻 Languages and Tools
-[![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&logoColor=blue&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/) 
+[![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&logoColor=blue&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
+[![LARAVEL](https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
+[![CODEIGNITER](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
+
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 [![JQuery](https://img.shields.io/badge/-JQuery-black?style=flat&logo=jquery&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 
@@ -35,6 +39,8 @@ I’m currently learning node js, react js, vue js and mongodb. Good at PHP PDO,
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 
+[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
+[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 
 ### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashraf-kabir&repo=mern-ecommerce)](https://github.com/ashraf-kabir/mern-ecommerce)
