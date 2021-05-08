@@ -14,7 +14,7 @@ I’m currently learning node js, react js, vue js and mongodb. Good at PHP PDO,
 
 
 ### 👨‍💻 Languages and Tools
-[![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&logoColor=blue&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 [![LARAVEL](https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 [![CODEIGNITER](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 
