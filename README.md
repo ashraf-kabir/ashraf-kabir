@@ -50,8 +50,8 @@ I’m currently learning node js, react js, vue js and mongodb. Good at PHP PDO,
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=ashraf-kabir&show_icons=true&hide_border=true)
 
 
-### 🔭 2020 Goal
-learning javascript libraries and API.
+### 🔭 2021 Goal
+learning javascript frameworks and API integration.
 
 
 ### ☕ Get In Touch
