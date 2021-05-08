@@ -29,14 +29,16 @@ I’m currently learning node js, react js, vue js and mongodb. Good at PHP PDO,
 [![Nodejs](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/) 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/) 
 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
+[![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?&style=for-the-badge&logo=mysql&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/) 
 [![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/) 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
+
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 [![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
@@ -45,6 +47,7 @@ I’m currently learning node js, react js, vue js and mongodb. Good at PHP PDO,
 [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
+
 
 ### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashraf-kabir&repo=mern-ecommerce)](https://github.com/ashraf-kabir/mern-ecommerce)
