@@ -29,8 +29,8 @@ I’m currently learning node js, react js, vue js and mongodb. Good at PHP PDO,
 [![Nodejs](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/) 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/) 
 
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/) 
 [![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
