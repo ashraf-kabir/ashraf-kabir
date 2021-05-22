@@ -36,6 +36,8 @@ I’m currently learning node js, react js, vue js and mongodb. Good at PHP PDO,
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/) 
 [![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 
+[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
+
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/) 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 
@@ -48,6 +50,9 @@ I’m currently learning node js, react js, vue js and mongodb. Good at PHP PDO,
 [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
+
+[![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
+[![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 
 
 ### 👀 Active Repo
