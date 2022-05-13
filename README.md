@@ -9,7 +9,7 @@ I’m currently learning node js, react js, vue js and mongodb. Good at PHP PDO,
 
 - :dart: Full stack web developer
 - :telephone_receiver: Contact: +88 01717093791 
-- [![WhatsaApp](https://img.shields.io/badge/click%20to%20contact%20on%20whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&https://wa.me/message/IJ3KOROMCB74K1)](https://wa.me/message/IJ3KOROMCB74K1)
+- [![WhatsaApp](https://img.shields.io/badge/click%20to%20contact%20on%20whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&https://wa.me/message/IJ3KOROMCB74K1)](`https://wa.me/+8801717093791`)
 - :e-mail: Email: **[ashrafkabir95@gmail.com](mailto:ashrafkabir95@gmail.com)**
 - :computer: Portfolio website: **[ashrafkabir.com](https://ashrafkabir.com/)**
 
