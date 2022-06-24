@@ -43,7 +43,8 @@ I’m currently learning node js, react js, vue js and mongodb. Good at PHP PDO,
 
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 [![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
 
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&link=https://github.com/ashraf-kabir/)](https://github.com/ashraf-kabir/)
