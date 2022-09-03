@@ -1,5 +1,5 @@
 ### 👋 Hey Guys I'm Ashraf Kabir
-I’m currently learning node js, react js, vue js and mongodb. Good at PHP PDO, Laravel, MySQL, JS, JQuery, etc.
+I’m currently learning node js, react js, vue js and mongodb. Good at PHP, Laravel, MySQL, JS, JQuery, VueJS, etc.
 
 ### Note: I'm open for work.
 
