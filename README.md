@@ -11,7 +11,7 @@ I’m currently learning node js, react js, vue js and mongodb. Good at PHP, Lar
 - :telephone_receiver: Contact: +88 01751336666 
 - [![WhatsaApp](https://img.shields.io/badge/click%20to%20contact%20on%20whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&https://wa.me/+8801751336666)](https://wa.me/+8801751336666)
 - :e-mail: Email: **[ashrafkabir95@gmail.com](mailto:ashrafkabir95@gmail.com)**
-- :computer: Portfolio website: **[ashrafkabir.com](https://ashrafkabir.com/)**
+- :computer: Portfolio website: **[ashraf-kabir.github.io](https://ashraf-kabir.github.io/)**
 
 
 ### 👨‍💻 Languages and Tools
@@ -62,7 +62,7 @@ I’m currently learning node js, react js, vue js and mongodb. Good at PHP, Lar
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=ashraf-kabir&show_icons=true&hide_border=true)
 
 
-### 🔭 2022 Goal
+### 🔭 2023 Goal
 learning what people expects from me
 
 
