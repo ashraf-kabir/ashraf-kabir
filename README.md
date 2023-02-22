@@ -69,5 +69,5 @@ learning what people expects from me
 ### ☕ Get In Touch
 - [Twitter](https://twitter.com/ashraf1Q95)
 - [Facebook](https://www.facebook.com/sonnet404)
-- [Personal Site](https://ashrafkabir.com)
+- [Personal Site](https://ashraf-kabir.github.io/)
 
